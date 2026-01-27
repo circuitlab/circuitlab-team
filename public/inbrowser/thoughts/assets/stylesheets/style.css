@@ -1,0 +1,40 @@
+html {
+  touch-action: manipulation;
+  color: #555;
+  font-family: sans-serif;
+  font-size: 16px;
+  background-color: #F2F2F2;
+  font-feature-settings: "palt";
+}
+
+body {
+  margin: 0;
+  -webkit-text-size-adjust: 100%;
+}
+
+article {
+  width: 45em;
+  max-width: calc(100% - 3em);
+  margin: auto auto 5em auto;
+}
+
+p {
+  color: #666;
+  line-height: 1.66em;
+  letter-spacing: 0.03em;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul p {
+  margin-left: 2em;
+}
+
+.unibalogo {
+  display: block;
+  width: 66%;
+  max-width: 146px;
+  margin: 2em auto 3em auto;
+}
